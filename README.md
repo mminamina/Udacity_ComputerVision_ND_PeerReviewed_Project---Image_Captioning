@@ -1,2 +1,2 @@
-# Udacity_ComputerVision_ND_PeerReviewed_Project---Image_Captioning
+# ComputerVision PeerReviewed Project: Image Captioning
 Project 2: Image Captioning
