@@ -1,4 +1,4 @@
-# ComputerVision PeerReviewed Project: Image Captioning
+## ComputerVision PeerReviewed Project: Image Captioning
 Project 2: Image Captioning
 This repository contains all of my work and comprehensive codes on Project2. 
 ### Project Experience
@@ -20,7 +20,7 @@ I started working on Project2 and Project3 simultaneously three weeks after prog
 - to find patterns
 - to generate descriptive texts for images
 ### Worklist
-For instructions, please refer to https://github.com/udacity/CVND---Image-Captioning-Project
+For project instructions, please refer to https://github.com/udacity/CVND---Image-Captioning-Project
 > The project will be broken up into four Python notebooks; 
 > only Notebook 2, 3 and model.py file are graded:
 
