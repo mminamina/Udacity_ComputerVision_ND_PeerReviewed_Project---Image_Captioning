@@ -32,5 +32,7 @@ For instructions, please refer to https://github.com/udacity/CVND---Image-Captio
 - Notebook 3_Inference.ipynb;
 - Notebook 4_Zip Your Project Files and Submit.ipynb
 
-##### Packages Used
+#### Packages Used
 Python 3.6, Pytorch, COCO Dataset, Natural Language Toolkit(ntlk)
+
+LICENSE: This project is licensed under the terms of the MIT license.
