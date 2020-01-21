@@ -25,7 +25,7 @@ For project instructions, please refer to https://github.com/udacity/CVND---Imag
 > only Notebook 2, 3 and model.py file are graded:
 
 ### Files in Order
-- data_loader.p; vocabulary.py; model.p;
+- data_loader.py; vocabulary.py; model.py;
 - Notebook 0_Dataset.ipynb;
 - Notebook 1_Preliminaries.ipynb;
 - Notebook 2_Training.ipynb;
