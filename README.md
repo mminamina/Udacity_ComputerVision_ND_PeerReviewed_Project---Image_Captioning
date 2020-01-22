@@ -32,7 +32,7 @@ For project instructions, please refer to https://github.com/udacity/CVND---Imag
 - Notebook 3_Inference.ipynb;
 - Notebook 4_Zip Your Project Files and Submit.ipynb
 
-### Additional Helpful Resources
+### Additional Resources
 - https://cs224d.stanford.edu/reports/msoh.pdf
 - https://arxiv.org/pdf/1502.03044.pdf
 - https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning
