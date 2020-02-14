@@ -39,7 +39,7 @@ For project instructions, please refer to https://github.com/udacity/CVND---Imag
 - https://daniel.lasiman.com/post/image-captioning/
 - https://www.groundai.com/project/cnncnn-convolutional-decoders-for-image-captioning/
 
-#### Packages 
-Python 3.6, Pytorch, COCO Dataset, Natural Language Toolkit(ntlk)
+#### Packages Used
+Python, Pytorch, COCO Dataset, Natural Language Toolkit(ntlk)
 
 LICENSE: This project is licensed under the terms of the MIT license.
